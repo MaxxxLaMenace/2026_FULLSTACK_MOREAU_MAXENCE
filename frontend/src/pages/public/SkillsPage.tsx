@@ -8,10 +8,11 @@ const categoryLabels: Record<string, string> = {
   frontend: 'Frontend',
   backend: 'Backend',
   tools: 'Outils',
+  language: 'Langage',
   other: 'Autres',
 };
 
-const categoryOrder = ['frontend', 'backend', 'tools', 'other'];
+const categoryOrder = ['frontend', 'backend', 'tools', 'language', 'other'];
 
 const SkillsPage: React.FC = () => {
   const { data: skills, isLoading, error } = useSkills();
