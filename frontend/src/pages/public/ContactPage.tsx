@@ -122,7 +122,7 @@ const ContactPage: React.FC = () => {
               <h2 className="text-xl font-semibold text-primary-100 mb-4">Retrouvez-moi sur</h2>
               <div className="space-y-4">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/MaxxxLaMenace"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-4 bg-primary-800 border border-primary-700 rounded-lg hover:border-accent-600 transition-colors"
@@ -137,7 +137,7 @@ const ContactPage: React.FC = () => {
                 </a>
 
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/maxence-moreau-a93054258/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-4 bg-primary-800 border border-primary-700 rounded-lg hover:border-accent-600 transition-colors"
